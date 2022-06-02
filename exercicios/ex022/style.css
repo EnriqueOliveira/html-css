@@ -1,0 +1,18 @@
+@metacharset: UTF-8;
+
+.imagem {
+
+  width: 250px;
+  height: 250px;
+  background:url('netflix-gimp2026.jpg');
+  
+}
+.texto {
+  position: absolute;
+  background-color: rgba(0,0,0,0.5);
+  color:#fff;
+  text-align: center;
+  top: 100px;
+  width: 250px;
+  line-height: 30px;
+  height: 30px;

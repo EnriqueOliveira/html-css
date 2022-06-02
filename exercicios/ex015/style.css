@@ -1,0 +1,20 @@
+@metachaset "UTF-8";
+
+<style>
+        * {
+            height: 50%;
+        }
+        body { 
+            background-image: linear-gradient(to left,#3B87DC,#645FC4,#DA306D,#e04a4f,#FCCA68);
+
+        }
+    
+        .element {
+            position: fixed;
+            bottom: 100%;
+            right: 0;
+          } 
+
+</style>
+ 
+       
