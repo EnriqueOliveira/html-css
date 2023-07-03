@@ -1,0 +1,28 @@
+@charset "UTF-8";
+ 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > p {
+    font-size: 32px;
+    color: rgba(3, 53, 78);
+    
+}
+
+table {
+    width: 750px;
+    text-align: center;
+}
+
+
+td {
+    color: rgba(3, 53, 78);
+    border: 1px solid rgb(3, 53, 78);
+    padding: 20px;
+}
+
+td.cor {
+    background-color: orange;
+}
+
